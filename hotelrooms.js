@@ -7,9 +7,7 @@ var hotelRoomRates = {
     hotelRoom90: 750,
     hotelRoom80: 550,
     hotelRoom75: 350};
-    
 
-    
     
 var hotelRoomAmeneties = readline.question("What ameneties are availble for each room during my stay?: ");
 
